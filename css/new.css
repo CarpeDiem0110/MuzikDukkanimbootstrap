@@ -9,7 +9,7 @@
     color: purple;
 }
 
-/* It is used for arranging the position of marks */ 
+/* It is used for arranging the position of marks in main page */ 
 .position{
     list-style-position: inside;
 }
@@ -42,14 +42,16 @@
 
 /* It is used for card elements in product.hmtl */ 
 .card{
-    padding-left: 50px;
-    padding-top: 20px;
+    padding-left: 70px;
+    padding-top: 30px;
     border: 2px solid black;
     margin: 20px;
     height: 400px;
     width: 400px;
 }
 
+/* It is used for arranging the position of information of product(name,price,button) */ 
 .card-body{
-    padding-top: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
 }
